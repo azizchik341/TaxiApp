@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CustomerApp</string>
+
+    <string name="app_id">ZMpFpygBN270NGM479GwziJ3aiHRCR8vawmJm9pm</string>
+    <string name="client_key">GIXCuy13viotaOr508Rh6yZGMdmhUlRNp9iwijwP</string>
+
+    <string name="server_url">https://parseapi.back4app.com/</string>
+</resources>

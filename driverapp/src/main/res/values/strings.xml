@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DriverApp</string>
+    <string name="app_id">y675JDg6wl1vd9177cwzmEKwpS8yK8GZod3xyuu4</string>
+    <string name="client_key">eMOkz29nc2F6KiWCLo5PoycL3t2MsXxNkDL5GTr4</string>
+
+    <string name="server_url">https://parseapi.back4app.com/</string>
+</resources>
